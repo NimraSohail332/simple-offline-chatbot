@@ -6,7 +6,18 @@ This project is a basic rule-based chatbot built using Python. It runs completel
 
 This chatbot demonstrates the core logic behind conversational agents without relying on any external APIs or internet connectivity. It is ideal for beginners learning Python and chatbot fundamentals.
 
-Although it is a simple offline chatbot, this project serves as a base for more advanced systems involving Large Language Models (LLMs) like GPT. Future versions can integrate LLMs to generate dynamic and intelligent responses.
+While this chatbot does not use machine learning, it introduces the basic principles behind conversational logic and intent handling — which are foundational to more advanced systems like Large Language Models (LLMs). In future versions, this chatbot can be enhanced using LLMs to provide smarter, dynamic responses.
+
+## LLM Relevance
+
+LLMs (Large Language Models), such as GPT or LLaMA, are capable of understanding and generating human-like language. This project can be extended by replacing or supplementing the rule-based logic with an LLM to:
+
+- Provide open-ended, context-aware answers
+- Handle a wider range of questions
+- Learn from conversation history
+- Integrate with tools like OpenAI, Hugging Face, or LangChain
+
+This makes it a strong base for AI-powered chatbot development.
 
 ## Features
 
